@@ -1,0 +1,20 @@
+{
+  "name": "react-native-util",
+  "version": "2.3.1",
+  "description": "A fork of io.js's util module that works with React Native",
+  "main": "util.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentjs/react-native-util.git"
+  },
+  "keywords": [
+    "util",
+    "react-native"
+  ],
+  "author": "io.js contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exponentjs/react-native-util/issues"
+  },
+  "homepage": "https://github.com/exponentjs/react-native-util#readme"
+}
