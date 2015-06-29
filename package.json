@@ -1,8 +1,11 @@
 {
   "name": "react-native-util",
-  "version": "1.0.0",
+  "version": "1.0.0-beta",
   "description": "A fork of io.js's util module that works with React Native",
   "main": "util.js",
+  "scripts": {
+    "test": "jest"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/exponentjs/react-native-util.git"
@@ -16,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/exponentjs/react-native-util/issues"
   },
-  "homepage": "https://github.com/exponentjs/react-native-util#readme"
+  "homepage": "https://github.com/exponentjs/react-native-util#readme",
+  "devDependencies": {
+    "jest-cli": "facebook/jest#0.5.x"
+  }
 }

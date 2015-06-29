@@ -20,6 +20,7 @@ import util from 'react-native-util';
 
 - Deprecated methods have been removed
 - `deprecate` has been removed since it relies on an internal io.js module
+- `inherits` has been removed since React Native supports classes
 - Promise introspection has been removed. Promises are printed out as regular JS objects.
 - `isBuffer` has been removed since there is no `Buffer` class
 - Unused private helper methods have been removed
