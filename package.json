@@ -1,6 +1,6 @@
 {
   "name": "react-native-util",
-  "version": "1.0.0-beta",
+  "version": "1.0.0",
   "description": "A fork of io.js's util module that works with React Native",
   "main": "util.js",
   "scripts": {
