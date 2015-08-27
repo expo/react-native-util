@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/exponentjs/react-native-util#readme",
   "devDependencies": {
-    "jest-cli": "facebook/jest#0.5.x"
+    "jest-cli": "^0.5.0"
   }
 }
