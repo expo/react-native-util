@@ -1,4 +1,4 @@
-# react-native-util [![Build Status](https://travis-ci.org/exponentjs/react-native-util.svg?branch=master)](https://travis-ci.org/exponentjs/react-native-util)
+# react-native-util [![Build Status](https://travis-ci.org/exponentjs/react-native-util.svg?branch=master)](https://travis-ci.org/exponentjs/react-native-util) [![Slack](http://slack.exponentjs.com/badge.svg)](http://slack.exponentjs.com)
 This is a fork of io.js's "util" module that works with React Native. It is currently tracking io.js 2.3.1.
 
 ## Usage
